@@ -48,8 +48,3 @@ Ejemplos:
   ```
   python3 darkwebfinder.py -f "database dump" --skip-confirm --print
   ```
-
-## Próximos pasos sugeridos
-
-- Agregar registro (logging) y almacenamiento cifrado según las políticas de tu organización.
-- Integrar verificación de conectividad TOR antes de realizar búsquedas.
