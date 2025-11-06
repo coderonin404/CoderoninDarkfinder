@@ -5,6 +5,7 @@ Herramienta diseñada por **CodeRonin** para la recolección autorizada de enlac
 ## Advertencia legal
 
 - No somos responsables del uso inadecuado de esta herramienta.
+- No somos responsables del contenido de los enlaces entregados por la herramienta.
 - Rutea todo el tráfico mediante TOR o infraestructura controlada antes de visitar cualquier enlace.
 - Respeta regulaciones locales y políticas internas; este código es solo para fines de capacitación.
 - Marca: CodeRonin — síguenos en IG `@code_ronin` y TikTok `@code.ronin`.
