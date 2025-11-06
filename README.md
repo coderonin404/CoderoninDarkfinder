@@ -1,10 +1,10 @@
 # Dark Web Finder
 
-Herramienta educativa diseñada por **CodeRonin** para la recolección autorizada de enlaces `.onion` usando motores como Ahmia u OnionLand. Está pensada para apoyar ejercicios de contrainteligencia y monitoreo de amenazas dentro de un marco legal y ético.
+Herramienta diseñada por **CodeRonin** para la recolección autorizada de enlaces `.onion` usando motores como Ahmia u OnionLand. Está pensada para apoyar ejercicios de contrainteligencia y monitoreo de amenazas dentro de un marco legal y ético.
 
 ## Advertencia legal
 
-- Úsalo únicamente si cuentas con aprobación legal y de tu organización.
+- No somos responsables del uso inadecuado de esta herramienta.
 - Rutea todo el tráfico mediante TOR o infraestructura controlada antes de visitar cualquier enlace.
 - Respeta regulaciones locales y políticas internas; este código es solo para fines de capacitación.
 - Marca: CodeRonin — síguenos en IG `@code_ronin` y TikTok `@code.ronin`.
