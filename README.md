@@ -1,4 +1,4 @@
-# Dark Web Finder
+# Coderonin Dark Finder
 
 Herramienta diseñada por **CodeRonin** para la recolección autorizada de enlaces `.onion` usando motores como Ahmia u OnionLand. Está pensada para apoyar ejercicios de contrainteligencia y monitoreo de amenazas dentro de un marco legal y ético.
 
